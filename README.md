@@ -4,7 +4,6 @@ Un juego clásico de Snake reinventado con efectos visuales synthwave y caracter
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🎮 Descripción
 
@@ -24,8 +23,8 @@ Snake Game Synthwave Edition es una versión moderna del clásico juego Snake co
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/snake-game-synthwave.git
-   cd snake-game-synthwave
+   git clone https://github.com/Yappur/Python-Snake-Game.git
+   cd Python-Snake-Game
    ```
 
 2. **Instala las dependencias:**
@@ -133,10 +132,6 @@ pip install pygame
 ### Rendimiento lento
 - Reduce el número de partículas en `synthwave_effects.py`
 - Disminuye el FPS en `clock.tick(15)`
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 🤝 Contribuciones
 
